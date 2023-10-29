@@ -1,4 +1,27 @@
-# IDS706-Python-Template
+[Notebook Preview](Hugo_Project_1.ipynb)
+
+## Project Description
+This project uses ```Pandas``` library to read from a csv dataset and perform descriptive statistics on the dataset. 
+
+It then uses ```matplotlib``` to plot the data and ```seaborn``` to visualize the data.
+
+The data set has been taken from glassdoor and focuses on income for various job titles based on gender. As there have been many studies showcasing that women are paid less than men for the same job titles, this data set will be helpful in identifying the depth of the gender-based pay gap. The features of the data set are:
+- Job Title
+- Gender
+- Age
+- PerfEval
+- Education
+- Dept
+- Seniority
+- Base Pay
+- Bonus
+
+**The objective of this project is to analysis the influence of gender on the average base pay.**
+
+<br />
+
+
+## IDS706-Python-Template
 Duke IDS706 course project template
 
 Yadong (Hugo) Hu
